@@ -1,0 +1,264 @@
+html, body, #container {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+#tukio-homemap {
+    width: auto;
+    height: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background: #e5e5e5 none repeat scroll 0 0;
+    color: #999;
+}
+
+#header {
+    height: 80px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+
+#nav-cont {
+    margin-bottom: 0;
+}
+
+.navbar-default {
+    background: #00bcd9 none repeat scroll;
+    border: 0 none;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    padding: 0;
+}
+
+.navbar-default .navbar-nav > li {
+    margin-left: 1px;
+    color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.navbar-default .navbar-nav > li > a > i {
+    display: inline-block;
+}
+
+.navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav > li.active:focus > a, .navbar-default .navbar-nav > li.active:hover > a, .navbar-default .navbar-nav > li:hover > a, .navbar-default .navbar-nav > li:focus > a, .navbar-default .navbar-nav > li.active > a:focus, .navbar-default .navbar-nav > li.active:focus > a:focus, .navbar-default .navbar-nav > li.active:hover > a:focus, .navbar-default .navbar-nav > li:hover > a:focus, .navbar-default .navbar-nav > li:focus > a:focus {
+    color: #666;
+}
+
+.logo {
+    display: block;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    padding: 3px;
+    color: #666;
+    height: 28px;
+    width: auto;
+    margin: 9px;
+    margin-right: 2px;
+    margin-left: 15px;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 0 1px;
+}
+
+.logo_t {
+    font-family: comfortaa, arial, sans-serif;
+    color: #00bcd9;
+}
+
+.logo_g {
+    font-family: comfortaa, arial, sans-serif;
+    color: #666;
+}
+
+.navbar-form .form-control {
+    border: #00bcd9 solid 2px;
+    border-radius: 50px;
+}
+
+/*Leaflet Custom Popup tweaks */
+
+.leaflet-popup-pane {
+
+}
+
+.leaflet-popup {
+    left: -3px !important;
+}
+
+.leaflet-popup-content-wrapper {
+    border-radius: 10px;
+    border: solid 2px #00bcd9;
+}
+
+.leaflet-popup-content {
+    width: 150px;
+}
+
+.leaflet-popup-tip-container {
+    margin: 0 0 0 -8px;
+    width: 40px;
+    height: 20px;
+    position: relative;
+    overflow: visible;
+
+}
+
+.leaflet-popup-tip {
+    width: 17px;
+    height: 20px;
+    padding: 9px;
+    margin: -18px auto 0 0;
+    border-radius: 50%;
+    border: solid 4px #00bcd9;
+}
+
+.popup-alert > .leaflet-popup-content-wrapper {
+    border: solid 2px red;
+}
+
+.popup-alert > .leaflet-popup-tip-container > .leaflet-popup-tip {
+    border: solid 4px red;
+}
+
+.badge {
+    padding: 1px;
+    color: #00BCD9;
+    background-color: #fff;
+}
+
+/*Make Geolocation control spin when finding location*/
+
+.glyphicon-spin {
+    -webkit-animation: spin 1000ms infinite linear;
+    animation: spin 1000ms infinite linear;
+}
+
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
+}
+
+.leaflet-add-tukio {
+    pointer-events: inherit;
+    bottom: 5px;
+    left: 5px;
+}
+
+.add-button {
+    padding: 0;
+    border-radius: 50%;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.add-button:active {
+    color: #ffffff;
+    outline: none;
+
+}
+
+#postModal {
+    top: 20%;
+}
+
+.reglog-container {
+    padding: 70px 30px 30px 30px;
+}
+
+#add-help {
+    bottom: 5px;
+    left: 45px;
+    color: #000;
+    font-weight: 700;
+    display: none;
+}
+
+.login-to-add {
+    color: #000;
+}
+
+/*************************/
+/* Marker cluster styles */
+/*************************/
+
+.marker-cluster-small,
+.leaflet-oldie .marker-cluster-small {
+    background-color: white;
+    border: solid 5px rgb(226, 119, 105);
+}
+
+.marker-cluster-small div,
+.leaflet-oldie .marker-cluster-small div {
+    background-color: rgb(226, 119, 105);
+}
+
+.marker-cluster-medium,
+.leaflet-oldie .marker-cluster-medium {
+    background-color: white;
+    border: solid 5px rgb(214, 62, 42);
+}
+
+.marker-cluster-medium div,
+.leaflet-oldie .marker-cluster-medium div {
+    background-color: rgb(214, 62, 42);
+}
+
+.marker-cluster-large,
+.leaflet-oldie .marker-cluster-large {
+    background-color: white;
+    border: solid 5px rgb(149, 43, 29);
+}
+
+.marker-cluster-large div,
+.leaflet-oldie .marker-cluster-large div {
+    background-color: rgb(149, 43, 29);
+}
+
+.marker-cluster {
+    background-clip: padding-box;
+    border-radius: 30px;
+}
+
+.marker-cluster div {
+    width: 28px;
+    height: 28px;
+    margin-left: 1px;
+    margin-top: 0.13rem;
+    text-align: center;
+    border-radius: 15px;
+    font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.marker-cluster span {
+    line-height: 30px;
+}

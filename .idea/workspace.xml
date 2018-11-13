@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4793fae7-c623-4017-86d5-2a004aedcbce" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/base.ba3dc2f88fc5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/base.ba3dc2f88fc5.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/base.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/changelists.b1b060f73d37.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/changelists.b1b060f73d37.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/changelists.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/changelists.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/dashboard.4898e2e9983d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/dashboard.4898e2e9983d.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/dashboard.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/fonts.cc6140298ba7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/fonts.cc6140298ba7.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/fonts.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/forms.70b858e61281.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/forms.70b858e61281.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/forms.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/login.a846c0e2ef65.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/login.a846c0e2ef65.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/login.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/rtl.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/rtl.e024aaf6df25.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/rtl.e024aaf6df25.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/widgets.a7251c097987.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/widgets.a7251c097987.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/css/widgets.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/LICENSE.d273d63619c9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/LICENSE.d273d63619c9.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/LICENSE.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/README.2c3d0bcdede2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/Roboto-Bold-webfont.2ad99072841e.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/Roboto-Bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/Roboto-Light-webfont.b446c2399bb6.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/Roboto-Light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/Roboto-Regular-webfont.ec39515ae8c6.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/fonts/Roboto-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/LICENSE.2c54f4e1ca1c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/LICENSE.2c54f4e1ca1c.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/LICENSE.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/README.837277fa1908.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/README.837277fa1908.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/README.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/calendar-icons.39b290681a8b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/calendar-icons.39b290681a8b.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/calendar-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/calendar-icons.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_off.7a23bf31ef8a.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_off.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_on.0047eba25b67.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_on.0047eba25b67.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/gis/move_vertex_on.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-addlink.d519b3bab011.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-addlink.d519b3bab011.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-addlink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-addlink.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-alert.034cc7d8a67f.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-alert.034cc7d8a67f.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-alert.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-alert.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-calendar.ac7aea671bea.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-calendar.ac7aea671bea.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-calendar.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-changelink.18d2fd706348.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-changelink.18d2fd706348.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-changelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-changelink.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-clock.e1d4dfac3f2b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-clock.e1d4dfac3f2b.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-clock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-clock.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-deletelink.564ef9dc3854.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-deletelink.564ef9dc3854.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-deletelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-deletelink.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-no.439e821418cd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-no.439e821418cd.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-no.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-no.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown-alt.81536e128bb6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown-alt.81536e128bb6.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown-alt.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown.a18cb4398978.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown.a18cb4398978.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-unknown.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-yes.d2f9f035226a.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-yes.d2f9f035226a.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-yes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/icon-yes.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/inline-delete.fec1b761f254.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/inline-delete.fec1b761f254.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/inline-delete.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/inline-delete.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/search.7cf54ff789c6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/search.7cf54ff789c6.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/search.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/selector-icons.b4555096cea2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/selector-icons.b4555096cea2.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/selector-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/selector-icons.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/sorting-icons.3a097b59f104.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/sorting-icons.3a097b59f104.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/sorting-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/sorting-icons.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-add.e59d620a9742.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-add.e59d620a9742.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-add.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-arrowright.bbfb788a849e.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-arrowright.bbfb788a849e.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-arrowright.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/img/tooltag-arrowright.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectBox.b49f008d186b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectBox.b49f008d186b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectBox.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectFilter2.17009b6d4428.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectFilter2.17009b6d4428.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectFilter2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/SelectFilter2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.32861b6cbdf9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.32861b6cbdf9.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.min.f51f04edab28.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.min.f51f04edab28.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/actions.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/DateTimeShortcuts.1536fb6bea1d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/DateTimeShortcuts.1536fb6bea1d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/DateTimeShortcuts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/DateTimeShortcuts.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/RelatedObjectLookups.183db436487a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/RelatedObjectLookups.183db436487a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/RelatedObjectLookups.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/admin/RelatedObjectLookups.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/calendar.9ac94d055fbd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/calendar.9ac94d055fbd.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/calendar.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/cancel.1d69cba4b4bf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/cancel.1d69cba4b4bf.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/cancel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/cancel.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/change_form.d224f77c6b61.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/change_form.d224f77c6b61.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/change_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/change_form.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.17d715df2104.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.17d715df2104.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.min.dc930adb2821.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.min.dc930adb2821.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/collapse.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/core.fd861d43f0f5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/core.fd861d43f0f5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/core.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.17981b4df24a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.17981b4df24a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.min.8ef8b2379896.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.min.8ef8b2379896.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/inlines.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/jquery.init.95b62fa19378.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/jquery.init.95b62fa19378.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/jquery.init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/jquery.init.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/popup_response.6ce3197f8fc8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/popup_response.6ce3197f8fc8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/popup_response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/popup_response.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.ff9208865444.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.ff9208865444.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.min.f4057ebb9b62.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.min.f4057ebb9b62.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate_init.0d3b53c37074.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate_init.0d3b53c37074.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate_init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/prepopulate_init.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/timeparse.51258861a46a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/timeparse.51258861a46a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/timeparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/timeparse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/urlify.411bc3bb651c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/urlify.411bc3bb651c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/urlify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/urlify.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/LICENSE-JQUERY.a158210a2737.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/LICENSE-JQUERY.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.aacc43d6f308.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.aacc43d6f308.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.min.33cabfa15c10.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/jquery/jquery.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/LICENSE-XREGEXP.d64cecf4f157.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/LICENSE-XREGEXP.d64cecf4f157.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.1865b1cf5085.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.1865b1cf5085.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.min.c95393b8ca4d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.min.c95393b8ca4d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/admin/js/vendor/xregexp/xregexp.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/L.Icon.Pulse.c4189dd796a8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/L.Icon.Pulse.c4189dd796a8.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/L.Icon.Pulse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/L.Icon.Pulse.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/layers-2x.4f0283c6ce28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/layers-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/layers.a6137456ed16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/layers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/marker-icon-2x.d95d69fa8a7d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/marker-icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/marker-icon.2273e3d8ad92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/marker-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/marker-shadow.44a526eed258.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/images/marker-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/leaflet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/leaflet.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/leaflet.e9e868435ce0.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/leaflet.e9e868435ce0.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/login.9635343b9585.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/login.9635343b9585.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/login.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.14f8fd2d7953.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.14f8fd2d7953.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.2019acc86e55.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.2019acc86e55.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.3988dfb41a99.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.3988dfb41a99.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.3c21394463ae.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.3c21394463ae.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.7ff65b878ccd.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.7ff65b878ccd.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.95cb77b66f93.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.95cb77b66f93.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.a70c1616bd8b.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.a70c1616bd8b.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.c5eb78a6c1f9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.c5eb78a6c1f9.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.dd59593e94eb.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.dd59593e94eb.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.e77bcbe7733d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/css/styles.e77bcbe7733d.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/gis/js/OLMapWidget.10b8c71c4290.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/gis/js/OLMapWidget.10b8c71c4290.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/gis/js/OLMapWidget.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/gis/js/OLMapWidget.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/layers-2x.4f0283c6ce28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/layers-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/layers.a6137456ed16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/layers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/marker-icon-2x.d95d69fa8a7d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/marker-icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/marker-icon.2273e3d8ad92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/marker-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/marker-shadow.44a526eed258.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/images/marker-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/add.1233dd1ba444.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/add.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/alert.6077ea764cd3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/alert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/burglary.08ae545a4657.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/burglary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/circle.6077ea764cd3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/circle.8c46f86205eb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/corruption.6368de81608f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/corruption.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/danger.f6a5204893e0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/danger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/domestic_violence.36434343489a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/domestic_violence.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/drug _use_dealing.fb61f53fa76f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/drug _use_dealing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/event.7ce1baca85f8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/event.9bf4b711dcd8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/event.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/favicon-120.9bf4b711dcd8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/favicon-120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/favicon.7ce1baca85f8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/geocircle.3c74df59669f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/geocircle.e2baebb8e5fe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/geocircle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/hijacking.995f153207dc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/hijacking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/hooligan_gang.f9429a8aab55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/hooligan_gang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/burglary.08ae545a4657.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/burglary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/corruption.6368de81608f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/corruption.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/domestic_violence.36434343489a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/domestic_violence.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/drug _use_dealing.fb61f53fa76f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/drug _use_dealing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/geocircle.e2baebb8e5fe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/geocircle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/hijacking.995f153207dc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/hijacking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/home_location_marker.3c74df59669f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/home_location_marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/hooligan_gang.f9429a8aab55.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/hooligan_gang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/other.b934dafcc373.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/other.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/pick_pocket.96d6380232af.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/pick_pocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/robbery.e4804da813ea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/robbery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/vandalism.6720d4b86c3f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/icons/vandalism.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/loading.0b9e55bd5653.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/new report.c581ef890ef0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/new report.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/new_tukio.c581ef890ef0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/new_tukio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/other.b934dafcc373.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/other.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/pick_pocket.96d6380232af.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/pick_pocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/robbery.e4804da813ea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/robbery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/vandalism.6720d4b86c3f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/img/vandalism.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Control.Locate.min.341c34d2a6c0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Control.Locate.min.341c34d2a6c0.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Control.Locate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Control.Locate.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Icon.Pulse.f3003398a21e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Icon.Pulse.f3003398a21e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Icon.Pulse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/L.Icon.Pulse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.0e0b860364dd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.0e0b860364dd.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.0ed7deaa0dec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.0ed7deaa0dec.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.1286371b871a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.1286371b871a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.29ad99495173.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.29ad99495173.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.40b14249ec88.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.40b14249ec88.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.667d7c17db78.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.667d7c17db78.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.71c54833e261.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.71c54833e261.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.82f83b548ae1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.82f83b548ae1.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.9d2a88fe2b35.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.9d2a88fe2b35.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.a9b10edf2a2b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.a9b10edf2a2b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.ad27ea2b37f5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.ad27ea2b37f5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.be50e11e9f68.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.be50e11e9f68.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.e6533d6c8d71.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.e6533d6c8d71.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.f1609459700f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.f1609459700f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/app.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/bootstrap.min.c2e5221c3336.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/bootstrap.min.c2e5221c3336.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/bootstrap.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/jquery-2.1.4.min.b0dc11d0a434.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/jquery-2.1.4.min.b0dc11d0a434.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/jquery-2.1.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/jquery-2.1.4.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.591bc0cd6036.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.591bc0cd6036.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.spin.min.be87f39fdb08.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.spin.min.be87f39fdb08.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.spin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/leaflet.spin.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/scripts.07815393c0aa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/scripts.07815393c0aa.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/js/scripts.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.3bdbe956c9d0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.3bdbe956c9d0.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.82027f1e3574.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.82027f1e3574.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/Control.MiniMap.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/layers-2x.4f0283c6ce28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/layers-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/layers.a6137456ed16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/layers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/marker-icon-2x.d95d69fa8a7d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/marker-icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/marker-icon.2273e3d8ad92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/marker-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/marker-shadow.44a526eed258.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/marker-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet-2x.2f19f5c5efab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet.429614175270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet.69d89e51f62b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet.69d89e51f62b.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/images/spritesheet.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.8ecade4283ba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.8ecade4283ba.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.97e2e3914e7f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.97e2e3914e7f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw-src.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.0c405ffd5493.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.0c405ffd5493.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.d58c6d448cfa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.d58c6d448cfa.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/draw/leaflet.draw.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie6-7.5a1fe9bedb19.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie6-7.5a1fe9bedb19.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie6-7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie6-7.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie8.bbfb12c526f7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie8.bbfb12c526f7.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/eventlistener.ie8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/layers-2x.4f0283c6ce28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/layers-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/layers.a6137456ed16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/layers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-icon-2x.d95d69fa8a7d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-icon.2273e3d8ad92.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-icon@2x.1c824216f354.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-shadow.44a526eed258.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/marker-shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/reset-view.e3a08f2f589b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/reset-view.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/toggle.619288fd75cf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/toggle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/zoom-in.05a5a49b814e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/zoom-in.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/zoom-out.082c999b5f56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/images/zoom-out.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet-src.b1aadf426928.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet-src.b1aadf426928.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet-src.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet-src.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.c107e28b6b0a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.c107e28b6b0a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.extras.2264c93e00d5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.extras.2264c93e00d5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.extras.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.extras.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.f4dfd20f27bb.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.f4dfd20f27bb.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.forms.68845a03ca87.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.forms.68845a03ca87.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.forms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.forms.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.ie.90b6a78525e3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.ie.90b6a78525e3.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.ie.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/leaflet.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4js.87fdd389aec9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4js.87fdd389aec9.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4js.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4leaflet.51f41177d9f2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4leaflet.51f41177d9f2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4leaflet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/leaflet/proj4leaflet.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap-tweaks.b78ca7b14c57.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap-tweaks.b78ca7b14c57.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap-tweaks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap-tweaks.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap.min.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap.min.ec3bb52a00e1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/bootstrap.min.ec3bb52a00e1.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/default.713cbe203060.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/default.713cbe203060.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/default.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/prettify.a987f72342ee.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/prettify.a987f72342ee.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/css/prettify.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.448c34a56d69.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.89889688147b.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.89889688147b.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.e18bbf611f2a.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.e18bbf611f2a.ttf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.f4769f9bdb74.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.fa2772327f55.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.svg.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.ttf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/img/glyphicons-halflings-white.9bbc6e960299.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/img/glyphicons-halflings.90233c9067e9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/img/grid.a4b938cf382b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/img/grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/ajax-form.8b39b42cbf4e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/ajax-form.8b39b42cbf4e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/ajax-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/ajax-form.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/bootstrap.min.5869c96cc8f1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/bootstrap.min.5869c96cc8f1.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/bootstrap.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/csrf.753b7a1f2ee7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/csrf.753b7a1f2ee7.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/csrf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/csrf.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/default.b846d7d305c9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/default.b846d7d305c9.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/default.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/default.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/jquery-1.12.4.min.4f252523d4af.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/jquery-1.12.4.min.4f252523d4af.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/jquery-1.12.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/jquery-1.12.4.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/prettify-min.709bfcc456c6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/prettify-min.709bfcc456c6.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/prettify-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/rest_framework/js/prettify-min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/live-static/static-root/staticfiles.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/app.js" afterPath="$PROJECT_DIR$/static/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tukio/settings/base.py" afterPath="$PROJECT_DIR$/tukio/settings/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tukio/settings/production.py" afterPath="$PROJECT_DIR$/tukio/settings/production.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tukio/settings/production.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="100" column="40" lean-forward="true" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1720">
+              <caret line="86" column="93" lean-forward="false" selection-start-line="86" selection-start-column="93" selection-end-line="86" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accounts/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tukiogram/models.py" />
+        <option value="$PROJECT_DIR$/tukiogram/views.py" />
+        <option value="$PROJECT_DIR$/accounts/models.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-30" />
+    <option name="width" value="1366" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tukiogram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tukiogram" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tukio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tukio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live-static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static-root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="live-static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static-root" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="confirms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the samaritan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accounts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4793fae7-c623-4017-86d5-2a004aedcbce" name="Default" comment="" />
+      <created>1504167968161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504167968161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-30" width="1366" height="798" extended-state="1" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25493172" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23307087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="86" column="93" lean-forward="false" selection-start-line="86" selection-start-column="93" selection-end-line="86" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="86" column="93" lean-forward="false" selection-start-line="86" selection-start-column="93" selection-end-line="86" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/avatars/oty.jpg" />
+    <entry file="file://$PROJECT_DIR$/tukiogram/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukiogram/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="86" column="93" lean-forward="false" selection-start-line="86" selection-start-column="93" selection-end-line="86" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accounts/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tukio/settings/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="100" column="40" lean-forward="true" selection-start-line="100" selection-start-column="40" selection-end-line="100" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
